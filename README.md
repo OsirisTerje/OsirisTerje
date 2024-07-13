@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Metrics](https://github.com/osiristerje/osiristerje/blob/main/metrics.svg)
+<-- ![Metrics](https://github.com/osiristerje/osiristerje/blob/main/metrics.svg) -->
 
 - 🔭 I’m currently working on NUnit, and is a Microsoft MVP for the 16th year
 - 🌱 I’m currently learning how to not work, althought fun and work has been so intermixed.

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [NUnit](https://github.com/nunit), and I am a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/a15b80b4-3c9a-e411-93f2-9cb65495d3c4) for the 16th year.
+- 🔭 I’m currently working on [NUnit](https://github.com/nunit), and I am a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/a15b80b4-3c9a-e411-93f2-9cb65495d3c4) for the 17th year.
 - :writing_hand: I do write on [my blog](https://hermit.no) but most of what I write is on the [NUnit docs](https://docs.nunit.org).
 - 🌱 I’m currently learning how to not work, althought fun and work has been so intermixed.
 - 👯 I’m looking to collaborate on anything fun.

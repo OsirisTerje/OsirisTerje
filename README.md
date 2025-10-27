@@ -9,4 +9,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/terjesandstrom/)
 - ⚡ Fun fact: I tell people not to add the company name to their github account name, because that is what I did.  The company was sold, and don't exist, anywhere but in my github name. And too late to change that now.  So do what I say, not as I do.
 
+  ### Useful stuff
+  - My [git aliases](https://gist.github.com/OsirisTerje/e9d06c627405f576e6ebf85e2c09f3c4)
+
 

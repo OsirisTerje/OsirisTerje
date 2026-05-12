@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to not work, althought fun and work has been so intermixed.
 - 👯 I’m looking to collaborate on anything fun.
 - 🤔 I’m looking for help with NUnit, we need more contributors.
-- 💬 Ask me about whatever you like.
+- 💬 Ask me about whatever you like.  Then I get the opportunity to learn something new 😃.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/terjesandstrom/)
 - ⚡ Fun fact: I always tell people not to put their company name in their GitHub username—because that’s exactly what I did. The company was sold and folded into something bigger, and the name quietly vanished… except from my GitHub handle. And now it’s far too late to fix that. So do as I say, not as I did.
 
